@@ -1,0 +1,50 @@
+h1{
+	color: #FF1493;
+	font-size: 75px;
+	text-align: center;
+}
+
+body{
+	background-color: black;
+	font-family: courier new;
+	color: #FF1493;
+}
+
+h5{
+	color: black;
+}
+
+ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	position: relative;
+	top: 0;
+	background-color: #FF1493;
+}
+
+li{
+	float: left;
+}
+
+li a{
+	float: left;
+	text-align: center;
+	padding: 20px;
+	color: white;
+	font-size: 30px;
+}
+
+li a:hover{
+	color:yellow;
+}
+
+img.social:hover{
+	opacity: .50;
+}
+
+div.section{
+	display: block;
+	background-color: #FF1493;
+}
